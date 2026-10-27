@@ -1,0 +1,4 @@
+# Starter kit of Part 1 (evaluate.py, check_submission.py, visualize.py).
+numpy>=1.26
+pillow>=10.0
+pycocotools>=2.0.7
